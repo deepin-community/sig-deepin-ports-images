@@ -1,0 +1,744 @@
+[
+  {
+    "type": "23-beige-preview",
+    "size": "2984677424",
+    "device": "milkv-mars",
+    "date": "20240528-120438",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240528/riscv64/deepin-23-beige-preview-riscv64-milkv-mars-20240528-120438.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3081179356",
+    "device": "musebox",
+    "date": "20240529-122340",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240529/riscv64/deepin-23-beige-preview-riscv64-musebox-20240529-122340.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "2859309048",
+    "device": "milkv-mars",
+    "date": "20240530-103247",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240530/riscv64/deepin-23-beige-preview-riscv64-milkv-mars-20240530-103247.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3134763404",
+    "device": "milkv-mars",
+    "date": "20240604-132020",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240604/riscv64/deepin-23-beige-preview-riscv64-milkv-mars-20240604-132020.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "2950527656",
+    "device": "lpi4a",
+    "date": "20240613-122949",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240613/riscv64/deepin-23-beige-preview-riscv64-lpi4a-20240613-122949.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "2952129352",
+    "device": "milkv-mars",
+    "date": "20240613-123442",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240613/riscv64/deepin-23-beige-preview-riscv64-milkv-mars-20240613-123442.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "5571482652",
+    "device": "musebox",
+    "date": "20240613-124108",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240613/riscv64/deepin-23-beige-preview-riscv64-musebox-20240613-124108.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "2904589248",
+    "device": "romadc",
+    "date": "20240613-133522",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240613/riscv64/deepin-23-beige-preview-riscv64-romadc-20240613-133522.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3197261368",
+    "device": "sg2042",
+    "date": "20240613-124856",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240613/riscv64/deepin-23-beige-preview-riscv64-sg2042-20240613-124856.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "5844739128",
+    "device": "visionfive2",
+    "date": "20240613-125619",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240613/riscv64/deepin-23-beige-preview-riscv64-visionfive2-20240613-125619.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3106280420",
+    "device": "eic7700evb",
+    "date": "20240624-153500",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240624/riscv64/deepin-23-beige-preview-riscv64-eic7700evb-20240624-153500.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3334777284",
+    "device": "eic7700",
+    "date": "20240702-181350",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240702/riscv64/deepin-23-beige-preview-riscv64-eic7700-20240702-181350.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3024349680",
+    "device": "musebox",
+    "date": "20240705-193241",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240705/riscv64/deepin-23-beige-preview-riscv64-musebox-20240705-193241.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3161769540",
+    "device": "eic7700",
+    "date": "20240719-113951",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240719/riscv64/deepin-23-beige-preview-riscv64-eic7700-20240719-113951.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3040828120",
+    "device": "rvbook",
+    "date": "20240726-135831",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240726/riscv64/deepin-23-beige-preview-riscv64-rvbook-20240726-135831.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3110279496",
+    "device": "eic7700",
+    "date": "20240801-203300",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240801/riscv64/deepin-23-beige-preview-riscv64-eic7700-20240801-203300.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3010718680",
+    "device": "jh7110",
+    "date": "20240805-110418",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240805/riscv64/deepin-23-beige-preview-riscv64-jh7110-20240805-110418.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3005388784",
+    "device": "eic7700",
+    "date": "20240815-113809",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240815/riscv64/deepin-23-beige-preview-riscv64-eic7700-20240815-113809.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4085112004",
+    "device": "jh7110",
+    "date": "20240815-114559",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240815/riscv64/deepin-23-beige-preview-riscv64-jh7110-20240815-114559.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "2940283132",
+    "device": "musebox",
+    "date": "20240815-115503",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240815/riscv64/deepin-23-beige-preview-riscv64-musebox-20240815-115503.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "2882345792",
+    "device": "romadc",
+    "date": "20240815-123719",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240815/riscv64/deepin-23-beige-preview-riscv64-romadc-20240815-123719.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3036955892",
+    "device": "rvbook",
+    "date": "20240815-104408",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240815/riscv64/deepin-23-beige-preview-riscv64-rvbook-20240815-104408.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3385246972",
+    "device": "sg2042",
+    "date": "20240815-125146",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240815/riscv64/deepin-23-beige-preview-riscv64-sg2042-20240815-125146.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "2938375256",
+    "device": "th1520",
+    "date": "20240815-132955",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240815/riscv64/deepin-23-beige-preview-riscv64-th1520-20240815-132955.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "2980213140",
+    "device": "th1520",
+    "date": "20240828-110736",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240828/riscv64/deepin-23-beige-preview-riscv64-th1520-20240828-110736.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4242941892",
+    "device": "eic7700",
+    "date": "20240905-123809",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240905/riscv64/deepin-23-beige-preview-riscv64-eic7700-20240905-123809.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4088436632",
+    "device": "jh7110",
+    "date": "20240912-171514",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240912/riscv64/deepin-23-beige-preview-riscv64-jh7110-20240912-171514.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4057880400",
+    "device": "k1",
+    "date": "20240913-124401",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240913/riscv64/deepin-23-beige-preview-riscv64-k1-20240913-124401.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3974623160",
+    "device": "p1",
+    "date": "20240923-174716",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240923/riscv64/deepin-23-beige-preview-riscv64-p1-20240923-174716.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "2935974252",
+    "device": "p1",
+    "date": "20240925-150602",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240925/riscv64/deepin-23-beige-preview-riscv64-p1-20240925-150602.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4038974724",
+    "device": "rvbook",
+    "date": "20240925-150611",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20240925/riscv64/deepin-23-beige-preview-riscv64-rvbook-20240925-150611.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3150516844",
+    "device": "rvbook-zhihe",
+    "date": "20241009-164857",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241009/riscv64/deepin-23-beige-preview-riscv64-rvbook-zhihe-20241009-164857.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "2941892264",
+    "device": "p1",
+    "date": "20241011-144653",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241011/riscv64/deepin-23-beige-preview-riscv64-p1-20241011-144653.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3227291676",
+    "device": "rvbook-zhihe",
+    "date": "20241011-144616",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241011/riscv64/deepin-23-beige-preview-riscv64-rvbook-zhihe-20241011-144616.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4334137788",
+    "device": "jh7110",
+    "date": "20241015-174331",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241015/riscv64/deepin-23-beige-preview-riscv64-jh7110-20241015-174331.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4110284764",
+    "device": "romadc",
+    "date": "20241024-002053",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241024/riscv64/deepin-23-beige-preview-riscv64-romadc-20241024-002053.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3125901572",
+    "device": "p1",
+    "date": "20241107-115259",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241107/riscv64/deepin-23-beige-preview-riscv64-p1-20241107-115259.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3807613888",
+    "device": "rvbook-zhihe",
+    "date": "20241107-111951",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241107/riscv64/deepin-23-beige-preview-riscv64-rvbook-zhihe-20241107-111951.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3646653276",
+    "device": "p1",
+    "date": "20241128-114223",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241128/riscv64/deepin-23-beige-preview-riscv64-p1-20241128-114223.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3662323504",
+    "device": "rvbook-zhihe",
+    "date": "20241128-114346",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241128/riscv64/deepin-23-beige-preview-riscv64-rvbook-zhihe-20241128-114346.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4629607816",
+    "device": "th1520",
+    "date": "20241128-123319",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241128/riscv64/deepin-23-beige-preview-riscv64-th1520-20241128-123319.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4234475484",
+    "device": "jh7110",
+    "date": "20241202-111400",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241202/riscv64/deepin-23-beige-preview-riscv64-jh7110-20241202-111400.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4589213564",
+    "device": "p1",
+    "date": "20241129-185055",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241202/riscv64/deepin-23-beige-preview-riscv64-p1-20241129-185055.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4783411724",
+    "device": "romadc",
+    "date": "20241202-111320",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241202/riscv64/deepin-23-beige-preview-riscv64-romadc-20241202-111320.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3735997380",
+    "device": "rvbook-zhihe",
+    "date": "20241129-185028",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241202/riscv64/deepin-23-beige-preview-riscv64-rvbook-zhihe-20241129-185028.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3261961492",
+    "device": "p1",
+    "date": "20241207-145049",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241207/riscv64/deepin-23-beige-preview-riscv64-p1-20241207-145049.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4177026188",
+    "device": "rvbook-zhihe",
+    "date": "20241207-145048",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241207/riscv64/deepin-23-beige-preview-riscv64-rvbook-zhihe-20241207-145048.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3345357548",
+    "device": "p1",
+    "date": "20241219-224833",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241219/riscv64/deepin-23-beige-preview-riscv64-p1-20241219-224833.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3262756420",
+    "device": "rvbook-zhihe",
+    "date": "20241219-225119",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241219/riscv64/deepin-23-beige-preview-riscv64-rvbook-zhihe-20241219-225119.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3355289104",
+    "device": "p1",
+    "date": "20241226-103408",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241226/riscv64/deepin-23-beige-preview-riscv64-p1-20241226-103408.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3364857304",
+    "device": "th1520",
+    "date": "20241227-161022",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20241227/riscv64/deepin-23-beige-preview-riscv64-th1520-20241227-161022.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3621724160",
+    "device": "generic",
+    "date": "20250107-145422",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250107/riscv64/deepin-23-beige-preview-riscv64-20250107-145422.iso"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3621093376",
+    "device": "generic",
+    "date": "20250109-210254",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250109/riscv64/deepin-23-beige-preview-riscv64-20250109-210254.iso"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3765128824",
+    "device": "jh7110",
+    "date": "20250116-163034",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250116/riscv64/deepin-23-beige-preview-riscv64-jh7110-20250116-163034.tar.xz"
+  },
+  {
+    "type": "25-beige-preview",
+    "size": "3243577200",
+    "device": "jh7110",
+    "date": "20250122-110620",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250122/riscv64/deepin-25-beige-preview-riscv64-jh7110-20250122-110620.tar.xz"
+  },
+  {
+    "type": "25-beige-preview",
+    "size": "4341091196",
+    "device": "th1520",
+    "date": "20250122-113934",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250122/riscv64/deepin-25-beige-preview-riscv64-th1520-20250122-113934.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4580000664",
+    "device": "k1",
+    "date": "20250205-103927",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250205/riscv64/deepin-23-beige-preview-riscv64-k1-20250205-103927.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "131016580",
+    "device": "tarball",
+    "date": "20250317-165138",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250317/riscv64/deepin-23-beige-preview-riscv64-tarball-20250317-165138.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "3675313716",
+    "device": "tarball",
+    "date": "20250317-171151",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250317/riscv64/deepin-23-beige-preview-riscv64-tarball-20250317-171151.tar.xz"
+  },
+  {
+    "type": "23-beige-preview",
+    "size": "4507110368",
+    "device": "eic7700",
+    "date": "20250415-101735",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250415/riscv64/deepin-23-beige-preview-riscv64-eic7700-20250415-101735.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4342643556",
+    "device": "jh7110",
+    "date": "20250416-172238",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250416/riscv64/deepin-25-crimson-preview-riscv64-jh7110-20250416-172238.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4018108072",
+    "device": "jh7110",
+    "date": "20250416-200022",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250416/riscv64/deepin-25-crimson-preview-riscv64-jh7110-20250416-200022.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "3882766480",
+    "device": "jh7110",
+    "date": "20250417-133752",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250417/riscv64/deepin-25-crimson-preview-riscv64-jh7110-20250417-133752.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4622730284",
+    "device": "eic7700",
+    "date": "20250419-002054",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250419/riscv64/deepin-25-crimson-preview-riscv64-eic7700-20250419-002054.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4695778492",
+    "device": "eic7700",
+    "date": "20250422-111038",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250422/riscv64/deepin-25-crimson-preview-riscv64-eic7700-20250422-111038.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4776180368",
+    "device": "eic7700",
+    "date": "20250422-122731",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250422/riscv64/deepin-25-crimson-preview-riscv64-eic7700-20250422-122731.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "3592166052",
+    "device": "sg2042",
+    "date": "20250513-155348",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250513/riscv64/deepin-25-crimson-preview-riscv64-sg2042-20250513-155348.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4669212760",
+    "device": "sg2042",
+    "date": "20250515-120709",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250515/riscv64/deepin-25-crimson-preview-riscv64-sg2042-20250515-120709.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4535941436",
+    "device": "eic7700",
+    "date": "20250603-105747",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250603/riscv64/deepin-25-crimson-preview-riscv64-eic7700-20250603-105747.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "3652822392",
+    "device": "jh7110",
+    "date": "20250603-113217",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250603/riscv64/deepin-25-crimson-preview-riscv64-jh7110-20250603-113217.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4723102244",
+    "device": "k1",
+    "date": "20250603-155033",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250603/riscv64/deepin-25-crimson-preview-riscv64-k1-20250603-155033.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "3815945912",
+    "device": "sg2042",
+    "date": "20250603-121733",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250603/riscv64/deepin-25-crimson-preview-riscv64-sg2042-20250603-121733.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "128310904",
+    "device": "tarball",
+    "date": "20250603-140730",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250603/riscv64/deepin-25-crimson-preview-riscv64-tarball-20250603-140730.tar.xz"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4482795520",
+    "device": "generic",
+    "date": "20250612-173115",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250612/riscv64/deepin-25-crimson-immutable-riscv64-20250612-173115.iso"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4482787328",
+    "device": "generic",
+    "date": "20250613-123507",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250613/riscv64/deepin-25-crimson-immutable-riscv64-20250613-123507.iso"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4684321268",
+    "device": "k1",
+    "date": "20250613-121011",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250613/riscv64/deepin-25-crimson-preview-riscv64-k1-20250613-121011.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4719443904",
+    "device": "k1",
+    "date": "20250617-135113",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250617/riscv64/deepin-25-crimson-preview-riscv64-k1-20250617-135113.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4905213584",
+    "device": "k1",
+    "date": "20250617-161611",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250617/riscv64/deepin-25-crimson-preview-riscv64-k1-20250617-161611.tar.xz"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4481282048",
+    "device": "generic",
+    "date": "20250618-150752",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250618/riscv64/deepin-25-crimson-immutable-riscv64-20250618-150752.iso"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4532783104",
+    "device": "generic",
+    "date": "20250621-023448",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250621/riscv64/deepin-25-crimson-immutable-riscv64-20250621-023448.iso"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4635432960",
+    "device": "generic",
+    "date": "20250622-022810",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250622/riscv64/deepin-25-crimson-immutable-riscv64-20250622-022810.iso"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "5016201216",
+    "device": "generic",
+    "date": "20250623-214346",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250623/riscv64/deepin-25-crimson-immutable-riscv64-20250623-214346.iso"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4893435904",
+    "device": "generic",
+    "date": "20250625-171832",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250625/riscv64/deepin-25-crimson-immutable-riscv64-20250625-171832.iso"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "3908305680",
+    "device": "dp1000",
+    "date": "20250625-030117",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250625/riscv64/deepin-25-crimson-preview-riscv64-dp1000-20250625-030117.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4804179616",
+    "device": "eic7700",
+    "date": "20250627-155140",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250627/riscv64/deepin-25-crimson-preview-riscv64-eic7700-20250627-155140.tar.xz"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4895477760",
+    "device": "generic",
+    "date": "20250630-151456",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250630/riscv64/deepin-25-crimson-immutable-riscv64-20250630-151456.iso"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "7947831756",
+    "device": "th1520",
+    "date": "20250707-135951",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250707/riscv64/deepin-25-crimson-preview-riscv64-th1520-20250707-135951.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "7909397188",
+    "device": "th1520",
+    "date": "20250707-164130",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250707/riscv64/deepin-25-crimson-preview-riscv64-th1520-20250707-164130.tar.xz"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4903229440",
+    "device": "generic",
+    "date": "20250709-112023",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250709/riscv64/deepin-25-crimson-immutable-riscv64-20250709-112023.iso"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "5394479872",
+    "device": "th1520",
+    "date": "20250711-103950",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250711/riscv64/deepin-25-crimson-preview-riscv64-th1520-20250711-103950.tar.xz"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4937742336",
+    "device": "generic",
+    "date": "20250714-191220",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250714/riscv64/deepin-25-crimson-immutable-riscv64-20250714-191220.iso"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4941303808",
+    "device": "generic",
+    "date": "20250724-115952",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250724/riscv64/deepin-25-crimson-immutable-riscv64-20250724-115952.iso"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4941641728",
+    "device": "generic",
+    "date": "20250728-172422",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250728/riscv64/deepin-25-crimson-immutable-riscv64-20250728-172422.iso"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4948275200",
+    "device": "generic",
+    "date": "20250729-143705",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250729/riscv64/deepin-25-crimson-immutable-riscv64-20250729-143705.iso"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4067565040",
+    "device": "eic7700",
+    "date": "20250729-125156",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250729/riscv64/deepin-25-crimson-preview-riscv64-eic7700-20250729-125156.tar.xz"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4706936832",
+    "device": "generic",
+    "date": "20250804-122132",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250804/riscv64/deepin-25-crimson-immutable-riscv64-20250804-122132.iso"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "3987592272",
+    "device": "k1",
+    "date": "20250804-121920",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250804/riscv64/deepin-25-crimson-preview-riscv64-k1-20250804-121920.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4050982408",
+    "device": "k1",
+    "date": "20250804-152839",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250804/riscv64/deepin-25-crimson-preview-riscv64-k1-20250804-152839.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4097381076",
+    "device": "k1-cloud",
+    "date": "20250806-180508",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250806/riscv64/deepin-25-crimson-preview-riscv64-k1-cloud-20250806-180508.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4692494696",
+    "device": "sg2042",
+    "date": "20250812-205045",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250812/riscv64/deepin-25-crimson-preview-riscv64-sg2042-20250812-205045.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "186239796",
+    "device": "tarball",
+    "date": "20250908-140807",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250908/riscv64/deepin-25-crimson-preview-riscv64-tarball-20250908-140807.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "5143081868",
+    "device": "sg2042",
+    "date": "20250922-124922",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250922/riscv64/deepin-25-crimson-preview-riscv64-sg2042-20250922-124922.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4191236016",
+    "device": "th1520",
+    "date": "20250928-121959",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20250928/riscv64/deepin-25-crimson-preview-riscv64-th1520-20250928-121959.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4422708004",
+    "device": "sg2044",
+    "date": "20251208-100625",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20251208/riscv64/deepin-25-crimson-preview-riscv64-sg2044-20251208-100625.tar.xz"
+  },
+  {
+    "type": "25-crimson-preview",
+    "size": "4842016088",
+    "device": "sg2044",
+    "date": "20251219-112123",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20251219/riscv64/deepin-25-crimson-preview-riscv64-sg2044-20251219-112123.tar.xz"
+  },
+  {
+    "type": "25-crimson-immutable",
+    "size": "4910651392",
+    "device": "generic",
+    "date": "20251224-174856",
+    "link": "https://ci.deepin.com/repo/deepin/deepin-ports/cdimage/20251225/riscv64/deepin-25-crimson-immutable-riscv64-20251224-174856.iso"
+  }
+]
